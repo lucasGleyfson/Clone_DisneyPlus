@@ -1,0 +1,10 @@
+$bgColor: rgb(214, 183, 231);
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $bgColor;
+}
+
